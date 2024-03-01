@@ -3,7 +3,7 @@ body{
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-    background: url('../assets/Untitled_Artwork.jpg' ) no-repeat;
+    background: url('../assets/img.jpg' ) no-repeat;
   background-size: cover;
   background-position: center  ;  
    backdrop-filter: blur(20px); 

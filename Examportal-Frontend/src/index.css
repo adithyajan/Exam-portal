@@ -31,7 +31,8 @@ body {
   min-height: 100vh;
   
   color: var(--COLOR);
- background-image: url('./assets/Untitled_Artwork.jpg'); 
+  background-image: url('./assets/Untitled_Artwork.jpg');
+ 
   background-size: cover;
   background-position: top right;
    /* background-blend-mode: multiply; */
